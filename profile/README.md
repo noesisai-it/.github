@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/logo.png" alt="Noesis AI" width="120" />
+<img src="logo.png" alt="Noesis AI" width="120" />
 
 # Noesis AI
 
